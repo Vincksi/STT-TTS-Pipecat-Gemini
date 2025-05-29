@@ -1,5 +1,5 @@
 Leveraging open source framework pipecat-ai to build chat bot with genimi.
-To run it locally, create a virtual environement and download the dependencies:
+To run it locally, create a virtual environement and download the dependencies
 ```
 pip install -r requirements.txt
 ```
