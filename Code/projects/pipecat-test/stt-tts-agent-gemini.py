@@ -32,8 +32,8 @@ from googlecode import (
 )
 
 # Charger les informations d'identification
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "llm-call-40f1d7b83065.json"
-os.environ["DAILY_API_KEY"] = "5803b40909103b76a83d77dcd88ae11c47383baecda511c4d024adf6c9d7ea12"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = #...
+os.environ["DAILY_API_KEY"] = #...
 load_dotenv(override=True)
 
 logger.remove(0)
